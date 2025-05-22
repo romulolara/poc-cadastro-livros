@@ -19,9 +19,8 @@ SQL -> relacionais -> entidade relacionamento
     PostgreSql
     https://neon.tech/
 
+3.1. Modelo inicial
 
-
-Entidades
 - Livros
     * id
     * idAutor
@@ -36,3 +35,6 @@ Entidades
 - Editoras
     * idEditora
     * nomeEditora
+
+4. ### Referências
+- https://ndpsoftware.com/git-cheatsheet.html#loc=index;
